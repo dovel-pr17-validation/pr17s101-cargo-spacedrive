@@ -55,7 +55,7 @@ gpui_macros    = { git = "https://github.com/spacedriveapp/zed", rev = "e0931d5a
 gpui-component = { git = "https://github.com/longbridge/gpui-component", rev = "7acfc184382d30864a688fdaa6c9ff719efc53ae" }
 
 # Third party dependencies used by one or more of our crates
-anyhow              = "1.0.94"
+anyhow              = "1.0.104"
 async-channel       = "2.3"
 async-stream        = "0.3.6"
 async-trait         = "0.1.83"
